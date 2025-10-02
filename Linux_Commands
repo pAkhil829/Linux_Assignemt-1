@@ -1,0 +1,59 @@
+ls - Lists files and directories in the current folder, including options for detailed or hidden files.
+
+pwd - Prints the full path of the current working directory.
+
+cd - Changes the current directory to the specified one; use cd .. to go up one level.
+
+mkdir - Creates a new directory with the given name.
+
+rmdir - Removes empty directories.
+
+rm - Deletes files or directories; use -r for recursive and -f to force deletion.
+
+cp - Copies files or directories; -r copies directories recursively.
+
+mv - Moves or renames files and directories.
+
+touch - Creates a new empty file or updates the timestamp of an existing file.
+
+cat - Displays the contents of a file in the terminal.
+
+head - Shows the first few lines of a file.
+
+tail - Shows the last few lines of a file.
+
+chmod - Changes file permissions such as read, write, and execute.
+
+chown - Changes file ownership and group.
+
+ps - Displays information about active processes.
+
+kill - Sends a signal to terminate a process by its PID.
+
+grep - Searches for a pattern or string within files or output.
+
+find - Searches for files and directories matching specified criteria.
+
+echo - Prints text or variable values to the terminal.
+
+man - Displays the manual or help page for other commands.
+
+clear - Clears the terminal screen.
+
+sudo - Executes commands with superuser (root) privileges.
+
+history - Displays a list of previously executed commands.
+
+uname - Shows system information like the kernel and OS type.
+
+df - Displays disk space usage for mounted file systems.
+
+du - Shows the size of files and directories.
+
+wget - Downloads files from the internet.
+
+ssh - Connects securely to a remote machine using the SSH protocol.
+
+tar - Archives and extracts files from tarballs (.tar).
+
+top/htop - Shows dynamic real-time system process and resource usage.
